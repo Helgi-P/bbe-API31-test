@@ -86,9 +86,9 @@ def test_a2():
     assert a == 234
 
 
-# @pytest.mark.parametrize("test_data", [123, 234, 345])
-# def test_a3(test_data):
-#     assert test_data == 234
+@pytest.mark.parametrize("test_data", [123, 234, 345])
+def test_a3(test_data):
+    assert test_data == 234
 
 
 
