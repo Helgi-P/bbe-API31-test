@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Thu Aug 22 12:25:17 GMT 2024","Thu Aug 22 12:25:17 GMT 2024","0","","test_CRUDUserPetStore","","","","test_a2",""
+"passed","Thu Aug 22 12:25:17 GMT 2024","Thu Aug 22 12:25:17 GMT 2024","503","","test_CRUDUserPetStore","","","","test_user_operations",""
+"skipped","Thu Aug 22 12:25:17 GMT 2024","Thu Aug 22 12:25:17 GMT 2024","0","","test_CRUDUserPetStore","","","","test_2",""
+"skipped","Thu Aug 22 12:25:17 GMT 2024","Thu Aug 22 12:25:17 GMT 2024","0","","test_CRUDUserPetStore","","","","test_a",""
