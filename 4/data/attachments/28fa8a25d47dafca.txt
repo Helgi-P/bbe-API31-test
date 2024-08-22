@@ -1,0 +1,9 @@
+Create User Response {"code":200,"type":"unknown","message":"1234321"}
+{'Date': 'Thu, 22 Aug 2024 12:22:34 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+
+Update user response {"code":200,"type":"unknown","message":"1234321"}
+{'Date': 'Thu, 22 Aug 2024 12:22:35 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+
+Get user info{"id":1234321,"username":"test_api_331","firstName":"test","lastName":"testoviv","email":"GIGIG@email.com","password":"1q2w3e4r","phone":"+44444444","userStatus":0}
+{'Date': 'Thu, 22 Aug 2024 12:22:35 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+JSON schema validation success
